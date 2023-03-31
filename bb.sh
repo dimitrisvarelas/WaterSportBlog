@@ -20,21 +20,20 @@ global_variables() {
     global_software_version="2.10"
 
     # Blog title
-    global_title="My fancy blog"
+    global_title="Water Sports"
     # The typical subtitle for each blog
-    global_description="A blog about turtles and carrots"
+    global_description="A blog about water sports in Corfu"
     # The public base URL for this blog
     global_url="http://example.com/blog"
 
     # Your name
-    global_author="John Smith"
+    global_author="Dimitris Varelas"
     # You can use twitter or facebook or anything for global_author_url
-    global_author_url="http://twitter.com/example" 
     # Your email
-    global_email="john@smith.com"
+    global_email="p18vare1@ionio.gr"
 
     # CC by-nc-nd is a good starting point, you can change this to "&copy;" for Copyright
-    global_license="CC by-nc-nd"
+    global_license="CC city center by-nc-nd"
 
     # If you have a Google Analytics ID (UA-XXXXX) and wish to use the standard
     # embedding code, put it on global_analytics
@@ -48,14 +47,14 @@ global_variables() {
     global_feedburner=""
 
     # Change this to your username if you want to use twitter for comments
-    global_twitter_username=""
+#    global_twitter_username=""
     # Default image for the Twitter cards. Use an absolute URL
     global_twitter_card_image=""
     # Set this to false for a Twitter button with share count. The cookieless version
     # is just a link.
-    global_twitter_cookieless="true"
+#    global_twitter_cookieless="true"
     # Default search page, where tweets more than a week old are hidden
-    global_twitter_search="twitter"
+#    global_twitter_search="twitter"
 
     # Change this to your disqus username to use disqus for comments
     global_disqus_username=""
@@ -132,10 +131,10 @@ global_variables() {
     # "Subscribe" (used on bottom of index page, it is link to RSS feed)
     template_subscribe="Subscribe"
     # "Subscribe to this page..." (used as text for browser feed button that is embedded to html)
-    template_subscribe_browser_button="Subscribe to this page..."
+ #   template_subscribe_browser_button="Subscribe to this page..."
     # "Tweet" (used as twitter text button for posting to twitter)
-    template_twitter_button="Tweet"
-    template_twitter_comment="&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;"
+ #   template_twitter_button="Tweet"
+#    template_twitter_comment="&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;"
     
     # The locale to use for the dates displayed on screen
     date_format="%B %d, %Y"

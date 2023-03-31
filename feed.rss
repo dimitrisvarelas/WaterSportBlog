@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Water Sports</title><link>http://example.com/blog/index.html</link>
+<description>A blog about water sports in Corfu</description><language>en</language>
+<lastBuildDate>Fri, 31 Mar 2023 23:26:48 +0300</lastBuildDate>
+<pubDate>Fri, 31 Mar 2023 23:26:48 +0300</pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Water Sports First Post
+</title><description><![CDATA[
+</h1>Varelas sports</h1>
+<p>Water Sports στην κέρκυρα. Ενα μαγαζί που γεμίζει τουρίστες κάθε καλοκαίρι, έρχονται διασκεδάζουν απολαμβάνουν τις διακοπές τους κάνοντας τις αγαπημένες τους δραστηριότητες. Φυσικά πάντα με την βοήθεια του κατάλληλου προσωπικού το οποίο είναι εκεί πάντα για οτιδήποτε χρειαστεί ο πελάτης. Varelas Water Sports σας περιμένουμε και φέτος.</p>
+
+
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/water-sports-first-post.html</link>
+<guid>http://example.com/blog/./water-sports-first-post.html</guid>
+<dc:creator>Dimitris Varelas</dc:creator>
+<pubDate>Fri, 31 Mar 2023 23:26:45 +0300</pubDate></item>
+</channel></rss>
